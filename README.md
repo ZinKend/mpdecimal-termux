@@ -9,5 +9,5 @@
 > All information about them, including official links, can be found in **TOOLS.md**.  
 > Your support for these official pages is greatly appreciated.  
 > Thank you for being a part of this.  
-> <a href="ss" style="text-decoration: none; color: #1F6FEB;">ZinKend <img width="18" height="18" style="vertical-align: middle;" src="./docs/readme/line-md--github-loop.svg"></a>
+> <a href="https://github.com/ZinKend">ZinKend</a>
 > | *From the community, for the community.*
